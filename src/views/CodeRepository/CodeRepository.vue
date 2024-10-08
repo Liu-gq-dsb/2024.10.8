@@ -5,7 +5,7 @@
 </template>
 
 <script setup>
-import OneTt from "./Fujijan/OneTt.Vue";
+import OneTt from "./Fujijan/OneTt.vue";
 </script>
 <style>
 .pp {
